@@ -15,8 +15,13 @@ Sample project covering following
   
   ## Running the project
   
-  use mvn spring-boot:run to launch the API's. 
+  Following maven command will launch the API's
+  ```
+  mvn spring-boot:run
+  ```
   
   ## Testing the project
   
-  use mvn verify
+  ```
+  mvn verify
+  ```
