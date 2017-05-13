@@ -13,6 +13,8 @@ Sample project covering following
   
   Imp - Postgres DB used for running this example. Refer DB folder for DML and DDL operations
   
+  The sample project model is influenced by [Jhipster](https://jhipster.github.io/).
+  
   ## Running the project
   
   Following maven command will launch the API's
